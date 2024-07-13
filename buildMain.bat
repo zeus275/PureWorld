@@ -1,1 +1,1 @@
-g:\bass\out\bass.exe -o main.sfc/main.sfc main.asm
+../bass/out/bass.exe -o main.sfc/main.sfc main.asm

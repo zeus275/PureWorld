@@ -1,2 +1,2 @@
 HELLO ;)
-![PureWorld_001](https://github.com/user-attachments/assets/300b8398-c59e-427b-8a06-37036ed795b5)
+![PureWorld](https://github.com/user-attachments/assets/4fa85ccc-c4ae-450e-83c5-0f5f0bf75dcc)
